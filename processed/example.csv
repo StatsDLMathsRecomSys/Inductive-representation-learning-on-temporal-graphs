@@ -1,0 +1,5 @@
+user,item,timestamp,state_label,comma_separated_list_of_features
+0,0,0.0,0,0.1,0.3,10.7
+2,1,6.0,0,0.2,0.4,0.6
+5,0,41.0,0,0.1,15.0,0.6
+3,2,49.0,1,100.7,0.8,0.9
