@@ -16,6 +16,9 @@ The proposed approach handles both node classification and link prediction task,
 
 ![architecture](architecture.png?raw=true "Network architecture")
 
+### Self-attention with functional representation learning
+The theoretical arguments developed in this paper are from our concurrent work: [Self-attention with Functional Time Representation Learning (NeurIPS 2019)](https://arxiv.org/abs/1911.12864). The implementation is also available at the [github page](https://github.com/StatsDLMathsRecomSys/Self-attention-with-Functional-Time-Representation-Learning).
+
 ## Running the experiments
 
 ### Dataset and preprocessing
