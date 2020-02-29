@@ -9,7 +9,7 @@ We propose the temporal graph attention (TGAT) layer to efficiently aggregate te
 The proposed approach handles both node classification and link prediction task, and can be naturally extended to include the temporal edge features.
 
 
-#### Paper link: [Inductive Representation Learning on Temporal Graphs](https://openreview.net/attachment?id=rJeW1yHYwH&name=original_pdf)
+#### Paper link: [Inductive Representation Learning on Temporal Graphs](https://openreview.net/pdf?id=rJeW1yHYwH)
 
 
 ## Running the experiments
