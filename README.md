@@ -1,4 +1,7 @@
-# Inductive Representation Learning on Temporal Graphs
+# Inductive Representation Learning on Temporal Graphs (ICLR 2020)
+<!--#### -->
+#### Authors: Da Xu*, Chuanwei Ruan*, Sushant Kumar, Evren Korpeoglu,  Kannan Achan
+#### Please contact Da.Xu@walmartlabs.com or Chuanwei.Ruan@walmartlabs.com for questions.
 
 ## Introduction
 
