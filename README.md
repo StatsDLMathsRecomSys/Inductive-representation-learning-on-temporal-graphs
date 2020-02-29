@@ -11,7 +11,7 @@ The proposed approach handles both node classification and link prediction task,
 
 #### Paper link: [Inductive Representation Learning on Temporal Graphs](https://openreview.net/pdf?id=rJeW1yHYwH)
 
-![architecture](architecture.PNG?raw=true "Network architecture")
+![architecture](architecture.png?raw=true "Network architecture")
 
 ## Running the experiments
 
