@@ -35,7 +35,7 @@ parser.add_argument('--node_dim', type=int, default=100, help='Dimentions of the
 parser.add_argument('--time_dim', type=int, default=100, help='Dimentions of the time embedding')
 parser.add_argument('--agg_method', type=str, choices=['attn', 'lstm', 'mean'], help='local aggregation method', default='attn')
 parser.add_argument('--attn_mode', type=str, choices=['prod', 'map'], default='prod', help='use dot product attention or mapping based')
-parser.add_argument('--time', type=str, choices=['time', 'pos', 'empty'], help='how to use time information', default='time')
+parser.add_argument('--time', type=str, choices=['time', 'pos'], help='how to use time information', default='time')
 parser.add_argument('--uniform', action='store_true', help='take uniform sampling from temporal neighbors')
 
 try:
