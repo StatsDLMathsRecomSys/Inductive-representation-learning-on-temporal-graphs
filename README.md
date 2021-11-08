@@ -3,6 +3,12 @@
 #### Authors: Da Xu*, Chuanwei Ruan*, Sushant Kumar, Evren Korpeoglu,  Kannan Achan
 #### Please contact Da.Xu@walmartlabs.com or Chuanwei.Ruan@walmartlabs.com for questions.
 
+#### Follow-up work:
+
+<ul>
+  <li> <b>A Temporal Kernel Approach for Deep Learning with Continuous-time Information, ICLR 2021</b> (https://arxiv.org/abs/2103.15213)
+</ul>
+
 ## Introduction
 
 The evolving nature of temporal dynamic graphs requires handling new nodes as well as capturing temporal patterns. The node embeddings, as functions of time, should represent both the static node features and the evolving topological structures. 
