@@ -9,6 +9,11 @@
   <li> <b>A Temporal Kernel Approach for Deep Learning with Continuous-time Information, ICLR 2021</b> (https://arxiv.org/abs/2103.15213)
 </ul>
 
+#### Predecessor work:
+<ul>
+  <li> <b>Self-attention with Functional Time Representation Learning, NeurIPS 2019</b> (https://arxiv.org/abs/1911.12864)
+</ul>
+
 ## Introduction
 
 The evolving nature of temporal dynamic graphs requires handling new nodes as well as capturing temporal patterns. The node embeddings, as functions of time, should represent both the static node features and the evolving topological structures. 
